@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @max mayer-mader
+# 👋 Hi, I’m @max mayer-mader
+
 - 👀 I’m interested in coding, databases and AI
 - 🌱 I’m currently learning computer scince
 - 💞️ I’m looking to collaborate on future projects
