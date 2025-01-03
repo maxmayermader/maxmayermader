@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding, databases and AI
 - 🌱 I’m currently learning computer scince
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me maxmayermader2@gmail.com
+- 📫 How to reach me max@mayer-mader.com
 
 ###
 
